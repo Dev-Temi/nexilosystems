@@ -16790,3 +16790,12 @@ ul {
   color: var(--bs-dark);
   background-color: var(--bs-white);
 }/*# sourceMappingURL=styles.css.map */
+
+.contactbutton {
+  width: 150px;
+  border-radius: 5px;
+  background-color: #25D366;
+  color: white;
+  padding: 10px 15px;
+  
+}
